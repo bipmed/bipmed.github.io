@@ -241,5 +241,16 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
+collections:
+  photos:
+    output: true
+
+defaults:
+  - scope:
+      path: "_photos"
+        type: photos
+    values:
+      layout: photo
+
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
