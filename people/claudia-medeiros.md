@@ -6,6 +6,8 @@ subtitle: Ph.D.
 
 [CV Lattes](http://lattes.cnpq.br/4643608666899616)
 
+![Claudia Medeiros](profile-claudia-medeiros.jpg){: class="img-responsive" style="float: left;margin-right: 10px;margin-top: 10px;" width="200px"}
+
 
 Claudia Bauzer Medeiros is a full professor of Computer Science at the Institute of Computing, University of Campinas (Unicamp), Brazil, where she has been a faculty member since 1985.
 

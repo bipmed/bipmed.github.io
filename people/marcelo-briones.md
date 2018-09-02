@@ -6,6 +6,9 @@ subtitle: Ph.D.
 
 [CV Lattes](http://lattes.cnpq.br/0018992452321910)
 
+![Marcelo Briones](profile-marcelo-briones.jpg){: class="img-responsive" style="float: left;margin-right: 10px;margin-top: 10px;" width="200px"}
+
+
 Dr. Briones is a professor at the Federal University of São Paulo (UNIFESP). His main goal is the study of gene evolution and genome structure in microorganisms and humans using molecular biology techniques and statistical analysis of bioinformatics data. His main scientific contributions were: (1) the experimental demonstration of the molecular clock hypothesis by in vitro evolution, (2) the discovery of geographic patterns in mitochondrial sequences in the pathogenic  yeast Candida, (3) the proposition of the theory of paleobiogeographical evolution of Trypanosoma cruzi (the causative agent of Chagas disease) and (4) the participation in large multi-laboratories projects such as the genome of Xylella fastidiosa, the transcriptome of cancer and the epileptic brain. His laboratory is currently working in (a) Experimental Microbial Evolution, (b) evolutionary patterns of mitochondrial genome evolution in humans and its correlation with neurological disease (c) genetic polymorphisms in human genes associated with drug metabolism.  He is a member of the São Paulo State Academy of Sciences, Scholar of the Howard Hughes Medical Institute and a Life Fellow of the Galton Institute, UK.
 
 Representative publications:

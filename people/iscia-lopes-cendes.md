@@ -6,7 +6,7 @@ subtitle: M.D., Ph.D.
 
 [CV Lattes](http://lattes.cnpq.br/3944020856408245)
 
-![Iscia Lopes-Cendes](ilc.jpg){: class="img-responsive" style="float: left;margin-right: 10px;margin-top: 10px;" width="200px"}
+![Iscia Lopes-Cendes](profile-iscia-lopes-cendes.jpg){: class="img-responsive" style="float: left;margin-right: 10px;margin-top: 10px;" width="200px"}
 
 
 Dr. Iscia Lopes-Cendes is a physician scientist, professor of Medical Genetics and head of the laboratory of Molecular Genetics at the department of Medical Genetics, School of Medical Sciences, University of Campinas (UNICAMP), BRAZIL. She obtained her M.D. degree at UNICAMP, followed by a medical specialty training in pediatrics. She obtained her Ph.D. degree in Neuroscience at McGill University, Canada.

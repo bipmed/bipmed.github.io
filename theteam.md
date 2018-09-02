@@ -21,8 +21,8 @@ subtitle: "Who are we?"
 
 ### Steering Committee Human Variome Project:
 
-- Iscia Lopes-Cendes (UNICAMP)
-- Vera G.S. Lopes (UNICAMP)
-- Roberto Giugliani (UFRGS)
-- Wilson Silva Jr. (USP-RP)
-- Peter Pearson (USP)
+- [Iscia Lopes-Cendes](people/iscia-lopes-cendes.md) (UNICAMP)
+- [Vera G. S. Lopes](people/vera-lopes.md) (UNICAMP)
+- [Roberto Giugliani](people/roberto-giugliani.md) (UFRGS)
+- [Wilson Silva Jr.](people/wilson-silva-jr.md) (USP-RP)
+- [Peter Pearson](people/peter-pearson.md) (USP)
