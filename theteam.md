@@ -6,7 +6,7 @@ subtitle: "Who are we?"
 
 ### Steering Committee BIPMed:
 
-- Iscia Lopes-Cendes (UNICAMP)
+- [Iscia Lopes-Cendes](./people/ilc/) (UNICAMP)
 - Claudia B. Medeiros (UNICAMP)
 - Benilton S. Carvalho (UNICAMP)
 - Munir Skaf (UNICAMP)
