@@ -11,7 +11,7 @@ subtitle: How and why did the project start?
    <td><a href="http://www.escience.org.br"><img src="/img/logos/cces-logo-300.jpg"></a></td>
    <td><a href="http://ctcusp.org"><img src="/img/logos/ctc-logo-300.jpg"></a></td>
    <td><a href="http://crid.fmrp.usp.br"><img src="/img/logos/crid-logo-300.jpg"></a></td>
-   <td><a href="http://www.ocrc.com.br"><img src="/img/logos/ocrc-logo-300.jpg"></a></td>
+   <td><a href="http://www.ocrc.org.br"><img src="/img/logos/ocrc-logo-300.jpg"></a></td>
  </tr>
 </table>
 
@@ -23,7 +23,7 @@ The Brazilian Initiative on Precision Medicine (BIPMed) is an initiative of five
 * [Center for Computational Science and Engineering (CCES)](http://www.escience.org.br/), coordinated by Dr. Munir Skaf;
 * [Center for Research in Cell Therapy (CTC)](http://ctcusp.org/), coordinated by Dr. Marco Antonio Zago;
 * [Center for Research on Inflammatory Diseases (CRID)](http://crid.fmrp.usp.br/), coordinated by Dr. Fernando Queiroz Cunha.
-* [Obesity and Comorbidities Research Center (OCRC)](http://www.ocrc.com.br/), coordinated by Dr. Licio Augusto Velloso;
+* [Obesity and Comorbidities Research Center (OCRC)](http://www.ocrc.org.br/), coordinated by Dr. Licio Augusto Velloso;
 
 Precision Medicine recently emerged as a concept in which scientific knowledge and technology will come together to provide the bases for medicine in the 21st century. It includes translational research, genomic medicine and personalized medicine and proposes a new level of integration of data in order to improve health care.
 
