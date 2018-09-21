@@ -23,3 +23,7 @@ Drop us a line at contact@bipmed.org!
 
   <button type="submit" class="btn btn-lg btn-primary">Submit</button>
 </form>
+
+You can also sign up for our occasional (at most once a month) newsletter.
+
+{% include subscription-form.html %}
