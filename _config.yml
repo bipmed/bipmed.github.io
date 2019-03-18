@@ -27,7 +27,9 @@ navbar-links:
   Our Products: "ourproducts"
   Data Sharing: "datasharing"
   The Team: "theteam"
-  Career Opportunities: "career"
+  Opportunities:
+    - Career: "career"
+    - Research: "research"
   Beacon: "beacon"
   Contact Us: "contactus"
   Search: "search"
