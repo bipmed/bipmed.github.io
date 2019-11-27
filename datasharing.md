@@ -6,7 +6,7 @@ subtitle: Want to access or share data with BIPMed?
 
 # Accessing Data from BIPMed
 
-Please, check the Rules for Data Access ([english](/docs/1_RulesDataAccessBIPMed.docx), [portuguese](/docs/1_RegrasAcessoDadosBIPMed.docx) or [spanish](/docs/1_ReglasDisponibilidadDadosBIPMed.docx) version), fill out the Research Data Use Agreement ([english](/docs/3_AgreementDataUseBIPMed.docx), [portuguese](/docs/3_AcordoUsoDadosBIPMed.docx) or [spanish](/docs/3_AcuerdoUsoDadosBIPMed.docx) version) and contact us for further details.
+Please, check the Rules for Data Access ([english](/docs/1_RulesDataAccessBIPMed.docx), [portuguese](/docs/1_RegrasAcessoDadosBIPMed.docx) or [spanish](/docs/1_ReglasDisponibilidadDadosBIPMed.docx) version), fill out the Research Data Use Agreement ([english](/docs/3_AgreementDataUseBIPMed.doc), [portuguese](/docs/3_AcordoUsoDadosBIPMed.docx) or [spanish](/docs/3_AcuerdoUsoDadosBIPMed.docx) version) and contact us for further details.
 
 # Sharing Data with BIPMed
 
