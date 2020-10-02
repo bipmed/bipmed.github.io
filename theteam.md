@@ -12,7 +12,6 @@ subtitle: "Who are we?"
 - [Munir Skaf](people/munir-skaf.md) (UNICAMP)
 - [Wilson Silva Jr.](people/wilson-silva-jr.md) (USP-RP)
 - [Joseane Morari](people/joseane-morari.md)  (UNICAMP)
-- [Marcelo Briones](people/marcelo-briones.md) (UNIFESP)
 
 
 ### Project Manager:
